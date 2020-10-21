@@ -413,7 +413,7 @@ margin-bottom: 2rem;
 .leftContent:hover{
     width: 50vw;
     height: 100vh ;
-    background-image: url('../Images/filledLeft.jpg');
+    background-image: url('../Images/NEWFilledLeft.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
@@ -424,7 +424,7 @@ margin-bottom: 2rem;
 .rightContent:hover {
     width: 50vw;
     height: 100vh ;
-    background-image: url('../Images/filledRight.jpg');
+    background-image: url('../Images/NEWfilledRight.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
